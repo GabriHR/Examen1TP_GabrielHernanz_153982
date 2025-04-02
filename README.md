@@ -1,5 +1,9 @@
 # Examen1TP_GabrielHernanz_153982
 
+Link con acceso al repositorio --> https://github.com/GabriHR/Examen1TP_GabrielHernanz_153982.git
+
+Respuestas de texto a los ejercicios propuestos en el primer examen de la asignatura de Técnicas de Programación.
+
 ## Ejercicio 1
 Justificación del código de hash:
 
